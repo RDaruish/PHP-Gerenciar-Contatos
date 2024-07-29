@@ -2,7 +2,7 @@
 
 ## [🇧🇷] Todo App
 
-Este projeto foi desenvolvido para aprimorar minhas habilidades em PHP.
+Este projeto foi desenvolvido para aprimorar minhas habilidades em PHP e auxiliar iniciantes com projetos base para treinarem e estudarem como foram feitos.
 
 O sistema é um gerenciador de contatos que permite adicionar novos contatos, editar e excluí-los.
 
